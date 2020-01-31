@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=USB_DM Pin=R1-1
+Removed Pin From Net: NetName=USB_DP Pin=R3-1
+Added Pin To Net: NetName=USB_DP Pin=R1-1
+Added Pin To Net: NetName=USB_DM Pin=R3-1
